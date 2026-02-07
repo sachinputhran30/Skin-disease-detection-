@@ -156,3 +156,23 @@ User → Web Interface → Flask Backend → CNN Model → Prediction → Result
 
 ## 📁 Project Structure
 
+finalyearproject/
+│
+├── app.py
+├── classes.json
+├── models/
+│ ├── disease_model.h5
+│ └── skintype_model.h5
+│
+├── static/
+│ ├── uploads/
+│ └── css/
+│
+├── templates/
+│ ├── index.html
+│ ├── disease.html
+│ ├── disease_result.html
+│ ├── skin_type.html
+│ └── skin_type_result.html
+│
+└── README.md
