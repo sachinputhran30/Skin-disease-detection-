@@ -1,0 +1,4 @@
+{
+  "disease_classes": ["Acne", "Eczema","Healthy", "Melanoma", "Psoriasis", "Vitiligo"],
+  "skin_type_classes": ["dry", "normal", "oily"]
+}
