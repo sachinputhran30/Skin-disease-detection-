@@ -11,7 +11,7 @@ Based on the prediction, the system provides:
 - Disease name with confidence score
 - First-line treatment suggestions
 - Do’s and Don’ts guidelines
-- Skin care recommendations
+- Skin care recommendation
 - Morning and night skincare routine
 - Recommended skincare products
 
